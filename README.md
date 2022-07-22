@@ -43,5 +43,5 @@ You can run the unit test using this command
     A hash map has been used to store **n** players in a dictionary. The maximum length of a given position will be named **k**
 - **Find couples:**  O(n*k).  
 	The whole array of **n** players is needed to be traversed once.
-	In the best scenario, a given player may not have any match so the cost is constant O(1)
-	In the worst scenario, a given player may have **k** matches so the cost is O(k)
+	In the best scenario, a given player may not have any match so the cost is constant O(1).
+	In the worst scenario, a given player may have **k** matches so the cost is O(k).
