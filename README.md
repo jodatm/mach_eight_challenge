@@ -6,8 +6,11 @@ This is my implementation of the Mach Eight Code Challenge.
 I used python to solve this problem. It's suggested to create a virtualenv to load the libraries specified in requirements.txt.
 
 `virtualenv env`
+
 `cd env/Scripts`
+
 `activate`
+
 `cd../..`
 
 > **Note:** This commands are for Windows, more information for other operating systems visit [this link](https://virtualenv.pypa.io/en/latest/)
